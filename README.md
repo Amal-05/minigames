@@ -1,6 +1,6 @@
 # 🎮 Cartoonish Mini-Games Hub
 
-Welcome to the ultimate fun zone! A collection of 7 highly addictive, beautifully styled, and mobile-responsive mini-games heavily inspired by the quirky, playful style of neal.fun.
+Welcome to the ultimate fun zone! A collection of 7 highly addictive, beautifully styled, and mobile-responsive mini-games .
 
 ### 🕹️ Play Now
 [![Play Game](https://img.shields.io/badge/PLAY_GAME-FF5E5E?style=for-the-badge&logo=vercel&logoColor=white)](https://minigames-pied.vercel.app/)
